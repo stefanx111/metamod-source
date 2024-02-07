@@ -65,7 +65,7 @@ jobs:
       - name: Checkout hl2sdk-cs2
         uses: actions/checkout@v4
         with:
-          repository: mooshua/hl2sdk
+          repository: alliedmodders/hl2sdk
           ref: cs2
           path: hl2sdk-cs2
 
